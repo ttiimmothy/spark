@@ -1,4 +1,4 @@
-# Apache Spark
+# Spark
 
 Spark is a unified analytics engine for large-scale data processing. It provides
 high-level APIs in Scala, Java, Python, and R, and an optimized engine that
@@ -123,3 +123,7 @@ in the online documentation for an overview on how to configure Spark.
 
 Please review the [Contribution to Spark guide](https://spark.apache.org/contributing.html)
 for information on how to get started contributing to the project.
+
+## License
+
+Spark is licensed under [GNU General Public License v3.0](LICENSE).
